@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./welcome-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=TharLon:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Telex:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="welcome-page">
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <div class="home-parent">
+        <div class="home1">
+          <div class="home2" id="homeText">Home</div>
+        </div>
+        <div class="contact">
+          <div class="contact1">Contact</div>
+          <img class="contact-child" alt="" />
+        </div>
+        <div class="service">
+          <div class="contact1">Service</div>
+          <img class="service-child" alt="" />
+        </div>
+        <div class="about">
+          <div class="contact1">About</div>
+          <img class="about-child" alt="" />
+        </div>
+      </div>
+      <div class="login">
+        <div class="login-inner">
+          <div class="instance-inner"></div>
+        </div>
+        <div class="login1">Login</div>
+      </div>
+      <div class="pg-hub1">PG HUB</div>
+      <div class="affordable-accommodation1">Affordable Accommodation</div>
+      <div class="sign-up">
+        <div class="login-inner">
+          <div class="instance-inner"></div>
+        </div>
+        <div class="sign-up1">Sign up</div>
+      </div>
+    </div>
+
+    <script>
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      </script>
+  </body>
+</html>

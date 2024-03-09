@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=TharLon:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Telex:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login-page">
+      <img class="image-7-icon1" alt="" src="./public/image-7@2x.png" />
+
+      <div class="home-group">
+        <div class="home3">
+          <div class="home4">Home</div>
+        </div>
+        <div class="contact2">
+          <div class="home4">Contact</div>
+          <img class="contact-item" alt="" />
+        </div>
+        <div class="service2">
+          <div class="home4">Service</div>
+          <img class="service-item" alt="" />
+        </div>
+        <div class="about2">
+          <div class="home4">About</div>
+          <img class="about-item" alt="" />
+        </div>
+      </div>
+      <div class="login2">
+        <div class="login-child">
+          <div class="instance-child1"></div>
+        </div>
+        <div class="login3">Login</div>
+      </div>
+      <div class="login-page-child"></div>
+      <div class="forgot-password">Forgot Password?</div>
+      <b class="login4">Login</b>
+      <div class="login5">Login</div>
+      <div class="login-page-item" id="rectangle1"></div>
+      <img class="login-page-inner" alt="" />
+
+      <img class="line-icon" alt="" />
+
+      <div class="line-div"></div>
+      <div class="login-page-child1"></div>
+      <div class="instance-parent">
+        <img class="rectangle-icon" alt="" />
+
+        <div class="email">Email</div>
+      </div>
+      <img
+        class="icon-lock-circle"
+        alt=""
+        src="./public/-icon-lock-circle.svg"
+      />
+
+      <div class="login-page-child2" id="rectangle2"></div>
+      <div class="dont-have-an-account-parent" id="frameContainer2">
+        <div class="dont-have-an">Don’t have an account?</div>
+        <div class="register">Register</div>
+      </div>
+      <div class="instance-group">
+        <img class="instance-child2" alt="" src="./public/rectangle-6.svg" />
+
+        <div class="password">Password</div>
+      </div>
+      <img class="email-icon" alt="" src="./public/email@2x.png" />
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./welcome-page.html";
+        });
+      }
+      
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./user-interface.html";
+        });
+      }
+      
+      var frameContainer2 = document.getElementById("frameContainer2");
+      if (frameContainer2) {
+        frameContainer2.addEventListener("click", function (e) {
+          window.location.href = "./signup-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

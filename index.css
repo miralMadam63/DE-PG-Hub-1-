@@ -1,0 +1,118 @@
+.frame-child {
+  position: absolute;
+  top: 898px;
+  left: 0;
+  background-color: var(--color-sienna-100);
+  width: 1440px;
+  height: 12px;
+}
+.were-helping-you {
+  margin: 0;
+}
+.blank-line {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+}
+.use-our-user-friendly {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+}
+.were-helping-you-container1 {
+  width: 100%;
+}
+.were-helping-you-container {
+  position: absolute;
+  top: 29px;
+  left: 213px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  width: 1014px;
+  height: 540px;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-sienna-100);
+}
+.get-started- {
+  position: absolute;
+  width: 103.42%;
+  top: 12.73%;
+  left: -1.71%;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-group {
+  position: absolute;
+  top: 569px;
+  left: 545px;
+  width: 351px;
+  height: 55px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-telex);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 910px;
+  overflow: hidden;
+  font-family: var(--font-tharlon);
+}
+.pg-hub {
+  position: absolute;
+  top: -7px;
+  left: 6px;
+  font-size: var(--font-size-81xl);
+  line-height: 130%;
+  color: var(--color-peachpuff);
+}
+.instance-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #bd987b;
+}
+.sign-up-now {
+  position: absolute;
+  top: 12.73%;
+  left: 18.21%;
+  line-height: 130%;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-container {
+  position: absolute;
+  top: 31px;
+  left: 1125px;
+  width: 291px;
+  height: 55px;
+  font-size: var(--font-size-13xl);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-sienna-100);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-telex);
+}

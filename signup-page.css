@@ -1,0 +1,374 @@
+.home6,
+.image-7-icon2 {
+  position: absolute;
+  left: 0;
+}
+.image-7-icon2 {
+  top: calc(50% - 512px);
+  width: 1445.1px;
+  height: 1124px;
+  object-fit: cover;
+}
+.home6 {
+  top: 0;
+  line-height: 130%;
+  font-weight: 600;
+}
+.contact-inner,
+.home5 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 46px;
+  height: 21px;
+}
+.contact-inner {
+  width: 3.23%;
+  top: 85.71%;
+  right: 46.77%;
+  left: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+  opacity: 0;
+}
+.contact4,
+.service-inner {
+  position: absolute;
+  top: 5px;
+  left: 210px;
+  width: 62px;
+  height: 21px;
+}
+.service-inner {
+  width: 1.69%;
+  top: 85.71%;
+  right: 42.37%;
+  left: 55.93%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+  object-fit: contain;
+  opacity: 0;
+}
+.about-inner,
+.service4 {
+  position: absolute;
+  top: 5px;
+  left: 108px;
+  width: 59px;
+  height: 21px;
+}
+.about-inner {
+  width: 2.08%;
+  top: 85.71%;
+  right: 41.67%;
+  left: 56.25%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+  object-fit: contain;
+  opacity: 0;
+}
+.about4,
+.home-container {
+  position: absolute;
+  top: 5px;
+  left: 315px;
+  width: 48px;
+  height: 21px;
+}
+.home-container {
+  top: 48px;
+  left: 835px;
+  width: 370px;
+  height: 26px;
+  overflow: hidden;
+}
+.signup-page-child {
+  position: absolute;
+  top: 229px;
+  left: calc(50% - 260px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-300);
+  box-shadow: 36.2px -36.2px 36.2px rgba(165, 165, 165, 0.1) inset,
+    -36.2px 36.2px 36.2px rgba(255, 255, 255, 0.1) inset;
+  backdrop-filter: blur(72.4px);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 520px;
+  height: 566px;
+}
+.registration {
+  position: absolute;
+  top: 286px;
+  left: calc(50% - 75px);
+  font-size: var(--font-size-6xl);
+  line-height: 130%;
+}
+.signup-page-item {
+  position: absolute;
+  top: 234px;
+  left: calc(50% + 215px);
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  background-color: var(--color-black);
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.signup-page-child1,
+.signup-page-inner {
+  position: absolute;
+  top: 243px;
+  left: 946px;
+  width: 21.5px;
+  height: 21.5px;
+  object-fit: contain;
+}
+.signup-page-child1 {
+  left: 944px;
+  cursor: pointer;
+}
+.register-icon {
+  position: absolute;
+  top: 196.8px;
+  left: 192.6px;
+  width: 78.8px;
+  height: 19.6px;
+}
+.line-13-stroke,
+.line-14-stroke,
+.line-16-stroke {
+  position: absolute;
+  top: 79px;
+  left: calc(50% - 197px);
+  width: 380px;
+  height: 1px;
+}
+.line-14-stroke,
+.line-16-stroke {
+  top: 17px;
+}
+.line-14-stroke {
+  top: 144px;
+}
+.icon-lock-circle1 {
+  position: absolute;
+  height: 7.54%;
+  width: 5.25%;
+  top: 33.93%;
+  right: 13.24%;
+  bottom: 58.53%;
+  left: 81.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-item {
+  position: absolute;
+  top: 185px;
+  left: 66px;
+  width: 337px;
+  height: 41px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.already-have-an-account {
+  position: absolute;
+  top: 6.9px;
+  left: 7.7px;
+  width: 181.1px;
+  height: 14.1px;
+}
+.already-have-an-account-parent,
+.frame-container,
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 193px;
+  width: 50px;
+  height: 22px;
+  overflow: hidden;
+}
+.already-have-an-account-parent,
+.frame-container {
+  left: 0;
+  width: 243px;
+}
+.frame-container {
+  width: 257px;
+  height: 23px;
+}
+.frame-wrapper,
+.instance-child3 {
+  position: absolute;
+  top: 252px;
+  left: 103px;
+  width: 257px;
+  height: 23px;
+}
+.instance-child3 {
+  top: 21px;
+  left: 2px;
+  width: 270px;
+  height: 41px;
+}
+.email1 {
+  position: absolute;
+  top: calc(50% - 4px);
+  left: 0;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+  height: 16px;
+}
+.frame-div,
+.instance-container {
+  position: absolute;
+  top: 24px;
+  left: 27px;
+  width: 284px;
+  height: 74px;
+  overflow: hidden;
+}
+.frame-div {
+  top: 232px;
+  left: 296px;
+  width: 47px;
+  height: 73px;
+  cursor: pointer;
+}
+.instance-child4 {
+  position: absolute;
+  top: 21px;
+  left: 2px;
+  width: 270px;
+  height: 41px;
+  display: none;
+}
+.password1 {
+  position: absolute;
+  top: calc(50% - 4px);
+  left: 6px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+  height: 16px;
+}
+.instance-parent1 {
+  position: absolute;
+  top: 83px;
+  left: 36px;
+  width: 284px;
+  height: 74px;
+  overflow: hidden;
+}
+.email-icon1 {
+  position: absolute;
+  top: 53px;
+  left: 388px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.group-div,
+.register-parent {
+  position: absolute;
+  width: 476px;
+  height: 333px;
+}
+.register-parent {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.group-div {
+  top: 434px;
+  left: 487px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-telex);
+}
+.icon-user {
+  position: absolute;
+  height: 2.63%;
+  width: 1.74%;
+  top: 41.11%;
+  right: 37.5%;
+  bottom: 56.26%;
+  left: 60.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.name {
+  position: absolute;
+  top: calc(50% - 4px);
+  left: -6px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+  height: 16px;
+}
+.instance-parent2 {
+  position: absolute;
+  top: 394px;
+  left: 520px;
+  width: 284px;
+  height: 74px;
+  overflow: hidden;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-telex);
+}
+.instance-child6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-tan-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.sign-up-child {
+  position: absolute;
+  top: 19px;
+  left: 20px;
+  background-color: var(--color-black);
+  width: 85px;
+  height: 28px;
+}
+.sign-up3 {
+  position: absolute;
+  top: 23px;
+  left: 33px;
+  line-height: 130%;
+  font-weight: 600;
+}
+.sign-up2 {
+  position: absolute;
+  top: 29px;
+  left: 1235px;
+  width: 124px;
+  height: 69px;
+  overflow: hidden;
+}
+.signup-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
